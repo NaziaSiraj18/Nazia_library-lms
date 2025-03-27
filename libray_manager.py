@@ -442,4 +442,4 @@ elif st.session_state.current_view == "stats":
 
 # Footer
 st.markdown("---")
-st.markdown("© 2025 Pashmeen Zia Personal Library Manager | Created with Love and Streamlit", unsafe_allow_html=True)
+st.markdown("© 2025 Nazia Siraj Personal Library Manager | Created with Love and Streamlit", unsafe_allow_html=True)
